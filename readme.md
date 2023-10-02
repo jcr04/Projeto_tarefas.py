@@ -1,4 +1,5 @@
 # Sistema de Gerenciamento de Tarefas
+<img width="520" alt="Screenshot_15" src="https://github.com/jcr04/Projeto_tarefas.py/assets/70778525/e627dfb3-a83a-40e1-ae0b-74640381b259">
 
 1. Objetivo do Sistema
 O Sistema de Gerenciamento de Tarefas tem como objetivo permitir a criação, edição, listagem, conclusão e deleção de tarefas. Cada tarefa possui informações como título, descrição, prioridade, estado (concluída ou pendente) e data de criação.
@@ -20,5 +21,6 @@ O sistema segue a arquitetura MVC (Model-View-Controller) e aplica os conceitos 
 
 * Aqui está o diagrama de classes que representa o funcionamento do sistema:
 
-![Diagrama](Screenshot_14.png)
+<img width="520" alt="Screenshot_14" src="https://github.com/jcr04/Projeto_tarefas.py/assets/70778525/2446150d-ed45-4074-9d18-6fa3aa11a062">
+
 
